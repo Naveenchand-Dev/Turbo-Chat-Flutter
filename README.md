@@ -1,6 +1,6 @@
-# turbo_chat
+# Turbo Chat
 
-A new Flutter project.
+A new Flutter group chat app.
 
 ## Getting Started
 
